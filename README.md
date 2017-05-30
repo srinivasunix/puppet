@@ -1,0 +1,2 @@
+# puppet
+My Puppet code
